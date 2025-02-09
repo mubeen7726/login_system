@@ -1,0 +1,40 @@
+Backend/node_modules
+Frontend/node_modules
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+dist/
+build/
+coverage/
+
+# React
+build/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.DS_Store
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# Other
+*.tmp
+*.bak
+*.swp
